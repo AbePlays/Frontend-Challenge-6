@@ -12,14 +12,19 @@
 /*      LEFT CONTAINER      */
 
 .left {
-  width: 50%;
+  width: 60%;
   float: left;
 }
 
 /*      RIGHT CONTAINER     */
 
 .right {
-  width: 50%;
+  width: 40%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-image: url("./images/hero-desktop.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 /*      FOOTER      */
